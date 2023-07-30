@@ -1,0 +1,15 @@
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Второй урок ДЗ Знакомство с языками программирования (семинары)\2-_-\Task15\bin\Debug\net6.0\Task15.exe
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Второй урок ДЗ Знакомство с языками программирования (семинары)\2-_-\Task15\bin\Debug\net6.0\Task15.deps.json
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Второй урок ДЗ Знакомство с языками программирования (семинары)\2-_-\Task15\bin\Debug\net6.0\Task15.runtimeconfig.json
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Второй урок ДЗ Знакомство с языками программирования (семинары)\2-_-\Task15\bin\Debug\net6.0\Task15.dll
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Второй урок ДЗ Знакомство с языками программирования (семинары)\2-_-\Task15\bin\Debug\net6.0\Task15.pdb
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Второй урок ДЗ Знакомство с языками программирования (семинары)\2-_-\Task15\obj\Debug\net6.0\Task15.csproj.AssemblyReference.cache
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Второй урок ДЗ Знакомство с языками программирования (семинары)\2-_-\Task15\obj\Debug\net6.0\Task15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Второй урок ДЗ Знакомство с языками программирования (семинары)\2-_-\Task15\obj\Debug\net6.0\Task15.AssemblyInfoInputs.cache
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Второй урок ДЗ Знакомство с языками программирования (семинары)\2-_-\Task15\obj\Debug\net6.0\Task15.AssemblyInfo.cs
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Второй урок ДЗ Знакомство с языками программирования (семинары)\2-_-\Task15\obj\Debug\net6.0\Task15.csproj.CoreCompileInputs.cache
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Второй урок ДЗ Знакомство с языками программирования (семинары)\2-_-\Task15\obj\Debug\net6.0\Task15.dll
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Второй урок ДЗ Знакомство с языками программирования (семинары)\2-_-\Task15\obj\Debug\net6.0\refint\Task15.dll
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Второй урок ДЗ Знакомство с языками программирования (семинары)\2-_-\Task15\obj\Debug\net6.0\Task15.pdb
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Второй урок ДЗ Знакомство с языками программирования (семинары)\2-_-\Task15\obj\Debug\net6.0\Task15.genruntimeconfig.cache
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Второй урок ДЗ Знакомство с языками программирования (семинары)\2-_-\Task15\obj\Debug\net6.0\ref\Task15.dll
